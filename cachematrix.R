@@ -4,10 +4,10 @@
 ## prior matrix inverse calculation to be retrieved from cache
 
 ## Write a short comment describing this function
-## makeSolveInverse creates a list that effectively defines a function to
+## makeCacheMatrix creates a list that effectively defines a function to
 ## compute a matrix inverse. 
 
-makeSolveInverse <- function(x = matrix()) {
+makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
  ##Set the value of the new (cacheable) vector
   set <- function(y) {
