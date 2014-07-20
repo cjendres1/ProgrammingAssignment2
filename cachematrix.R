@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-## makeSolveInverse and cacheSolve are functions that allow a
+## makeCacheMatrix and cacheSolve are functions that allow a
 ## prior matrix inverse calculation to be retrieved from cache
 
 ## Write a short comment describing this function
